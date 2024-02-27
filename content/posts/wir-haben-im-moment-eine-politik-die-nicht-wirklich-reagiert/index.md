@@ -47,3 +47,11 @@ Im letzten Jahr hatten wir die Teuerung, wir haben erhöhte Mieten und Krankenka
 ### Aber dann ist im Moment noch keine Besserung in Sicht, in dem Sinne, dass sich in der Politik etwas verändert?
 
 Im Moment haben wir das Gefühl, dass es national und kantonal schwierig ist, das ist so.
+
+
+{{<box>}}
+
+Die Caritas Organisation in Bern gibt es schon seit 1901. Seit vier Jahren ist Barbara Keller eine der vielen Kämpfer*innen, die das Problem der Armut bekämpfen wollen. 
+Obwohl die Armut in der Schweiz seit 2014 um rund 2 Prozent (von 6.7% auf 8.7%) gestiegen ist kann die Caritas Organisation dennoch Erfolge verbuchen.   
+{{</box>}}
+
