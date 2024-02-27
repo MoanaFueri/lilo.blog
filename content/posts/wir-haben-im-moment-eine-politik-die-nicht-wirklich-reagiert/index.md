@@ -14,8 +14,7 @@ Es ist ein tabuisiertes und oft auch umstrittenes Thema in der Schweiz: die Armu
 {{</lead>}}
 
 ![Eine engagierte Bekämpferin der Armut! Barbara Keller, Mitarbeiterin der Caritas-Organisation im Bereich Kommunikation und Marketing (Bildquelle www.nau.ch. Stand 21.2.24](barbara-keller-.jpg "Eine engagierte Bekämpferin der Armut! Barbara Keller, Mitarbeiterin der Caritas-Organisation im Bereich Kommunikation und Marketing (Bildquelle www.nau.ch. Stand 21.2.24")
-
-Die Einleitung stellt Ort des Interviews und interviewte Person prägnant und spannend vor. 
+ 
 
 Das Hauptgebäude der Caritas-Organisation liegt in einem abgelegenen Wohnquartier, aus-serhalb vom Stadtzentrum Bern. Die Büros befinden sich im obersten Stock eines bescheiden wirkenden Blockhauses. Am Empfang sitzt eine Dame, die uns etwas gelangweilt entgegen-blickt, und uns bittet nebenan auf den Stühlen Platz zu nehmen. Zwei Minuten Später geht eine der vielen Weissen Türen auf, und eine Junge, freundlich dreinblickende Dame, die sich als Barbara Keller vorstellt, geleitet uns in einen kleinen gemütlich wirkenden Raum, mit einem runden Tisch, einem Whiteboard, und einem grossen Fenster, mit Blick auf das Quartier. 
 Barbara Keller setzt sich uns gegenüber, und blickt uns erwartungsvoll an. Wir starten mit der ersten Frage:
