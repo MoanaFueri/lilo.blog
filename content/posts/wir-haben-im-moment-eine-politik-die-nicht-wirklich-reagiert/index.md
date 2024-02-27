@@ -42,16 +42,12 @@ Die Armut hat es definitiv gesteigert. Während Corona hatten wir, mit unseren M
 
 Im letzten Jahr hatten wir die Teuerung, wir haben erhöhte Mieten und Krankenkassenprämien, die jedes Jahr steigen, und wir haben nicht wirklich eine Politik, die viel reagiert. Gerade die Sozialhilfegelder sind seit Jahren stagniert, die Krankenkassenprämien steigen, aber die Verbilligungen sind immer gleichgeblieben, das heißt wir haben auch dort ein Gap. In der Schweiz haben wir auch kein Mindestlohn, was dazu führt, dass die Löhne oft nicht ansteigen, wenn die Teuerung ansteigt. Alle diese Punkte haben dazu geführt, dass es immer mehr Armut gibt. 
 
-
-
 ### Aber dann ist im Moment noch keine Besserung in Sicht, in dem Sinne, dass sich in der Politik etwas verändert?
 
 Im Moment haben wir das Gefühl, dass es national und kantonal schwierig ist, das ist so.
 
-
 {{<box>}}
 
 Die Caritas Organisation in Bern gibt es schon seit 1901. Seit vier Jahren ist Barbara Keller eine der vielen Kämpfer*innen, die das Problem der Armut bekämpfen wollen. 
-Obwohl die Armut in der Schweiz seit 2014 um rund 2 Prozent (von 6.7% auf 8.7%) gestiegen ist kann die Caritas Organisation dennoch Erfolge verbuchen.   
+Obwohl die Armut in der Schweiz seit 2014 um rund 2 Prozent (von 6.7% auf 8.7%) gestiegen ist kann die Caritas Organisation dennoch Erfolge verbuchen.\
 {{</box>}}
-
