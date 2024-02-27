@@ -33,10 +33,18 @@ Es würde schon helfen, wenn nur in der Öffentlichkeit über das Thema gesproch
 >
 > \- Barbara Keller
 
-{{</*box*/>}}
+
+
+
+
+`{{<box>}}`\
 **Die Armutsgrenze**
-Die Armutsgrenze in der Schweiz wird von den Richtlinien der Konferenz für Sozialhilfe (SKOS) abgeleitet und betrug 2021 durchschnittlich 2289 Franken im Monat für eine Einzelperson und 3989 Franken für zwei Erwachsene mit zwei Kindern. 
-{{</*/box*/>}}
+Die Armutsgrenze in der Schweiz wird von den Richtlinien der Konferenz für Sozialhilfe (SKOS) abgeleitet und betrug 2021 durchschnittlich 2289 Franken im Monat für eine Einzelperson und 3989 Franken für zwei Erwachsene mit zwei Kindern. \
+`{{</box>}}`
+
+
+
+
 
 ### Die Organisation Caritas
 
